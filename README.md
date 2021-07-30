@@ -11,6 +11,7 @@
 + **_trafic_light_**: <https://drive.google.com/file/d/1gcrtDpByliVZVaKVyWZuM8oXfRqNv98y/view?usp=sharing>
 + **_parking_lot_**:  <https://drive.google.com/file/d/1nL6AHTiBgUoltxJgNyKMfnz7ET0nb3ni/view?usp=sharing>
 + **_piece_**:  <https://drive.google.com/file/d/1dDNkaeF_nNMmpE1VixFcgYwGwjgd3EOL/view>
+
 我學到的東西
 -----------
 在裡面我除了學到基礎的電子元件運用和程式的設計想法，還有非常重要卻常被忽視的接線電路設計
